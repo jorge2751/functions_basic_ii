@@ -32,4 +32,4 @@ def length_and_value(size,value):
     for i in range(size):
         new_list.append(value)
     return new_list
-print(length_and_value(3,5))   
+print(length_and_value(3,5))
